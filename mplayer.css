@@ -331,6 +331,6 @@ header .master-play .vol input{
   cursor: pointer;
   z-index: 99999999;
   transition: 3s linear;
-  opacity: 0;
+  opacity: 10;
 }
 
